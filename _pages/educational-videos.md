@@ -44,15 +44,13 @@ Una serie sobre patología cardíaca del canal personal del Dr. Gómez Ayala.
   </a>
 </p>
 
-## Midwifery
-<p style="color:#888; font-style:italic; margin-top:-0.5em;">Partería</p>
+## Obstetrics
+<p style="color:#888; font-style:italic; margin-top:-0.5em;">Obstetricia</p>
 
-A course series on midwifery, developed in affiliation with the Universidad de la
-Salud, Mexico City.
+A course series on obstetrics, developed in affiliation with the Universidad de la Salud, Mexico City.
 
 <p style="color:#888; font-style:italic;">
-Una serie de cursos sobre partería, desarrollada en afiliación con la Universidad
-de la Salud, Ciudad de México.
+Una serie de cursos sobre obstetricia, desarrollada en afiliación con la Universidad de la Salud, Ciudad de México.
 </p>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; margin:1.5em 0;">
