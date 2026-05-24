@@ -1,8 +1,8 @@
 
 ---
 layout: archive
-title: "Education Videos"
-permalink: /education-videos/
+title: "Educational Videos"
+permalink: /educational-videos/
 author_profile: true
 ---
 
