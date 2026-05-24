@@ -13,9 +13,9 @@ title                    : "Rodrigo Gómez Ayala, MD, PhD"
 title_separator          : "Rodrigo Gómez Ayala, MD, PhD"
 name                     : "Your Name"
 description              : "Resident Physician, Neuropathology, XXI Century National Medical Center"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://madelinemcbride.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/rga-site" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/rga-site/images/profile.png"
+  avatar           : "profile.png"
   name             : "Rodrigo Gómez Ayala, MD, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Resident Physician, Neuropathology, XXI Century National Medical Center"
