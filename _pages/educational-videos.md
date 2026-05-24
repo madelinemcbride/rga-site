@@ -13,9 +13,9 @@ El Dr. Gómez Ayala produce videos de educación médica clínica en dos canales
 
 ## Cardiac Pathology
 <p style="color:#888; font-style:italic; margin-top:-0.5em;">Patología Cardíaca
-<b>
+  
 A series on cardiac pathology from Dr. Gómez Ayala's personal channel.
-</b></p>
+
 <p style="color:#888; font-style:italic;">
 Una serie sobre patología cardíaca del canal personal del Dr. Gómez Ayala.
 </p>
