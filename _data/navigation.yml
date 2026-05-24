@@ -11,14 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education Videos"
-    url: /education-videos/
+  - title: "Educational Videos"
+    url: /educational-videos/
     
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
