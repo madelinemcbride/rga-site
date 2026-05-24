@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Educational Videos"
@@ -6,10 +5,16 @@ permalink: /educational-videos/
 author_profile: true
 ---
 
-Dr. Gómez Ayala produces clinical medical education videos covering pathology, cardiology, and core clinical topics. The collection below features his **Cardiac Pathology** series; his full library is available on his YouTube channel.
+Dr. Gómez Ayala produces clinical medical education videos covering pathology,
+cardiology, and core clinical topics. The collection below features his
+**Cardiac Pathology** series; his full library is available on his YouTube
+channel.
 
 <p style="color:#888; font-style:italic;">
-El Dr. Gómez Ayala produce videos de educación médica clínica sobre patología, cardiología y temas clínicos fundamentales. La colección a continuación presenta su serie de <strong>Patología Cardíaca</strong>; su biblioteca completa está disponible en su canal de YouTube.
+El Dr. Gómez Ayala produce videos de educación médica clínica sobre patología,
+cardiología y temas clínicos fundamentales. La colección a continuación presenta
+su serie de <strong>Patología Cardíaca</strong>; su biblioteca completa está
+disponible en su canal de YouTube.
 </p>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; margin:1.5em 0;">
