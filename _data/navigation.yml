@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "Publications"
-   # url: /publications/
+  - title: "Psicoanálisis"
+    url: /psicoanalisis/
 
   - title: "Educational Videos"
     url: /educational-videos/
