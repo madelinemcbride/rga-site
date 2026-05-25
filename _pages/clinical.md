@@ -2,6 +2,6 @@
 ---
 layout: archive
 title: "Psicoanalisis"
-permalink: /clinical
+permalink: /clinical/
 author_profile: true
 ---
