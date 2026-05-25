@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "Psicoanálisis"
+title: "Psicoanalisis"
 permalink: /clinical-practice/
 author_profile: true
 ---
