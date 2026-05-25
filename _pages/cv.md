@@ -9,21 +9,21 @@ author_profile: true
 
 Education
 ======
-* Bachelor of Nursing, National School of Nursing and Obstetrics (ENEO-UNAM) — License 10550532
-* Master's Degree in Psychoanalytic Psychotherapy, Autonomous University of Zacatecas — License 13029901
-* Expert in Practical Criminalistics, International Academy of Training in Forensic Sciences (AIFCF) — License 14865
+* Bachelor of Nursing, National School of Nursing and Obstetrics (ENEO-UNAM)
+* Master's Degree in Psychoanalytic Psychotherapy, Autonomous University of Zacatecas
+* Expert in Practical Criminalistics, International Academy of Training in Forensic Sciences (AIFCF)
 * Bachelor's Degree in Medicine and Surgery, Faculty of Medicine, National Autonomous University of Mexico (UNAM), 2024
 * Doctorate in Psychoanalytic Theory, Lacanian Psychoanalytic College, 2025
 
 Certifications & Licenses
 ======
-* Medical Surgery Social Service Intern — Account No. 310051644
-* Provider and Instructor, Basic Life Support, American Heart Association — ID 04 1-6046 13 12
-* Provider and Instructor, Advanced Cardiovascular Life Support, American Heart Association — ID 04 1-6046 13 12
+* Medical Surgery Social Service Intern
+* Provider and Instructor, Basic Life Support, American Heart Association
+* Provider and Instructor, Advanced Cardiovascular Life Support, American Heart Association
 * Certified for Teaching in Clinical Simulation
 * Certified in First Aid Care
 
-Current Roles
+Experience
 ======
 * Resident Physician, Neuropathology, XXI Century National Medical Center, Mexico City
 * Professor, University of Health
@@ -33,7 +33,7 @@ Current Roles
 * Medical Emergency 911 Advisor
 * Member, National Scientific Committee of the Mexican Society of Space Medicine and Microgravity (SOMMEM)
 
-Professional Experience & Development
+Publications & Engagements
 ======
 * Author, *Space Nursing*, published by the Mexican Space Agency and CONACyT; presented during the Third Space Medicine Congress
 * Author, *The Borders of the Real*, Diván Negro, 2020
