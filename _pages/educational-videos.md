@@ -80,7 +80,7 @@ Una serie de videos sobre patología cardíaca del canal personal del Dr. Gómez
 <p style="margin-top:1em;">
   <a class="btn" href="https://www.youtube.com/@rodrigogomezayala6143"
      target="_blank" rel="noopener"
-     style="display:inline-block; padding:0.6em 1.2em; background:#0077b5; color:#fff; border-radius:4px; text-decoration:none;">
+     style="display:inline-block; padding:0.6em 1.2em; background:#208487; color:#fff; border-radius:4px; text-decoration:none;">
     Visit the channel / Visitar el canal &rarr;
   </a>
 </p>
@@ -134,7 +134,7 @@ de la Salud, Ciudad de México.
 <p style="margin-top:1em;">
   <a class="btn" href="https://www.youtube.com/@rodrigogomezayala3979"
      target="_blank" rel="noopener"
-     style="display:inline-block; padding:0.6em 1.2em; background:#0077b5; color:#fff; border-radius:4px; text-decoration:none;">
+     style="display:inline-block; padding:0.6em 1.2em; background:#208487; color:#fff; border-radius:4px; text-decoration:none;">
     Visit the channel / Visitar el canal &rarr;
   </a>
 </p>
