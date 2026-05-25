@@ -5,13 +5,6 @@ permalink: /clinical/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Psicoanálisis"
-permalink: /clinical-practice/
-author_profile: true
----
-
 <p style="background:#f4f4f4; border-left:3px solid #0077b5; padding:0.8em 1.1em; color:#333; font-size:1em; line-height:1.5;">
 <strong>Dr. Rodrigo Gómez Ayala is a practicing psychoanalyst based in Mexico City, offering consultations to patients in Mexico and online.</strong><br>
 <span style="color:#666; font-style:italic;">El Dr. Rodrigo Gómez Ayala es psicoanalista en ejercicio, con sede en la Ciudad de México, y atiende a pacientes en México y en línea.</span>
