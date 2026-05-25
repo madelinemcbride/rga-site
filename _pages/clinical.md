@@ -5,20 +5,11 @@ permalink: /clinical/
 author_profile: true
 ---
 
-<p style="background:#f4f4f4; border-left:3px solid #0077b5; padding:0.8em 1.1em; color:#333; font-size:1em; line-height:1.5;">
-<strong>Dr. Rodrigo Gómez Ayala is a practicing psychoanalyst based in Mexico City, offering consultations to patients in Mexico and online.</strong><br>
+Dr. Rodrigo Gómez Ayala is a practicing psychoanalyst based in Mexico City, offering consultations to patients in Mexico and online.
+
 <span style="color:#666; font-style:italic;">El Dr. Rodrigo Gómez Ayala es psicoanalista en ejercicio, con sede en la Ciudad de México, y atiende a pacientes en México y en línea.</span>
-</p>
 
-<p style="margin:1.5em 0;">
-  <a class="btn" href="https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico"
-     target="_blank" rel="noopener"
-     style="display:inline-block; padding:0.7em 1.4em; background:#0077b5; color:#fff; border-radius:4px; text-decoration:none; font-size:1.05em;">
-    Agendar cita / Book an appointment →
-  </a>
-</p>
-
-## Clínica psicoanalítica
+---
 
 Soy Rodrigo Gómez, médico avalado por la Universidad Nacional Autónoma de México, dedicado a la clínica psicoanalítica de orientación lacaniana.
 
@@ -30,33 +21,10 @@ Actualmente formo parte del Foro del Campo Lacaniano de México. He desarrollado
 
 Mi enfoque de trabajo clínico se centra tanto en la atenuación del sufrimiento sintomático como en la elucidación de los determinantes inconscientes del padecimiento, con el objetivo de propiciar transformaciones más estables en la posición subjetiva del paciente frente a su síntoma, su deseo y sus vínculos. La consulta se concibe como un espacio clínico de escucha rigurosa, confidencial y éticamente orientada, en el cual el discurso del paciente constituye el eje del proceso terapéutico.
 
-### Enfoque clínico
-
-- Psicoterapia individual
-- Psicoterapia psicoanalítica individual
-- Pacientes: adultos
-- Modalidad: consulta en línea (videoconsulta)
-- Idiomas: español e inglés
-
-### Áreas de atención
-
-Angustia, ansiedad, estrés y estrés postraumático, depresión, fobias, inhibiciones
-y somatizaciones, conflictos inconscientes, síntomas neuróticos, trastornos de la
-personalidad, trastornos del sueño, gestión de emociones y autoestima.
-
-## Contacto
-
-Teléfono / WhatsApp: 55 1222 1945
-Foro del Campo Lacaniano de México: [campolacanianomexico.com.mx](https://campolacanianomexico.com.mx/team-details/ayala-gomez-rodrigo/)
-
-<p style="margin:1.5em 0;">
-  <a class="btn" href="https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico"
-     target="_blank" rel="noopener"
-     style="display:inline-block; padding:0.7em 1.4em; background:#0077b5; color:#fff; border-radius:4px; text-decoration:none; font-size:1.05em;">
-    Agendar cita / Book an appointment →
-  </a>
+<p style="color:#555; font-size:0.95em; margin-top:2.5em;">
+La consulta se ofrece en español e inglés, en modalidad de videoconsulta, para pacientes adultos. Las citas se gestionan a través de Doctoralia.
 </p>
 
-<p style="color:#888; font-size:0.85em; margin-top:1em;">
-Las citas se gestionan a través de Doctoralia. / Appointments are managed through Doctoralia.
+<p style="margin-top:1.5em;">
+  <a href="https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico" target="_blank" rel="noopener" style="border-bottom:1px solid #999; text-decoration:none; color:inherit;">Agendar cita &rarr;</a>
 </p>
