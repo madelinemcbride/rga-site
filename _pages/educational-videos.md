@@ -18,7 +18,7 @@ México sobre obstetricia.
 </p>
 
 <p style="background:#f4f4f4; border-left:3px solid #888; padding:0.6em 1em; color:#555; font-size:0.95em;">
-&#128204; All videos are in Spanish. &nbsp; <span style="font-style:italic;">Todos los videos están en español.</span>
+&#128204; Todos los videos están en español
 </p>
 
 <style>
