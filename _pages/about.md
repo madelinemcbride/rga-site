@@ -15,7 +15,7 @@ Alongside his clinical work, Dr. Gómez Ayala is an educator and author. He has 
 
 He is a member of the National Scientific Committee of the Mexican Society of Space Medicine and Microgravity (SOMMEM) and author of the book *Space Nursing*, published by the Mexican Space Agency and CONACyT. He also authored *The Borders of the Real* (Diván Negro, 2020), reflecting his work in psychoanalytic theory.
 
-## Psychoanalysis | Psicoanálisis
+### Psychoanalysis | Psicoanálisis
 
 Dr. Gómez Ayala maintains a private practice for clinical psychoanalytical psychotherapy for patients in Mexico City. [Mas información o agendar cita]([url](https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico)).
 
@@ -30,5 +30,5 @@ Dr. Gómez Ayala maintains a private practice for clinical psychoanalytical psyc
 ## Contact
 
 For professional inquiries, reach Dr. Gómez Ayala at
-[rodshansky@gmail.com](mailto:rodshansky@gmail.com) or connect on
+[rodshansky@gmail.com](mailto:rodshansky@gmail.com), by Whatsapp (+55 1222 1945), or connect on
 [LinkedIn](https://www.linkedin.com/in/rodrigo-g%C3%B3mez-ayala-a277b9113).
