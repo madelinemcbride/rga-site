@@ -17,7 +17,7 @@ He is a member of the National Scientific Committee of the Mexican Society of Sp
 
 ### Psychoanalysis | Psicoanálisis
 
-Dr. Gómez Ayala maintains a private practice for clinical psychoanalytical psychotherapy for patients in Mexico City. [Mas información o agendar cita]([url](https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico)).
+Dr. Gómez Ayala maintains a private practice for clinical psychoanalytical psychotherapy in Mexico City. [Mas información o agendar cita]([url](https://www.doctoralia.com.mx/rodrigo-gomez-ayala/enfermero/ciudad-de-mexico)).
 
 ### Areas of focus
 
