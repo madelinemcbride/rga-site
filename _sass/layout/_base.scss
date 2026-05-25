@@ -363,3 +363,15 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/* ==========================================================================
+   CUSTOM TYPOGRAPHY OVERRIDES  (added — safe to remove)
+   ========================================================================== */
+body {
+  font-size: 0.85em;     /* smaller body text */
+  line-height: 1.39;      /* tighter line spacing */
+}
+
+p {
+  margin-bottom: 1em;    /* less gap between paragraphs */
+}
