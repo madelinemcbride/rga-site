@@ -10,26 +10,18 @@ author_profile: true
 Education
 ======
 * Bachelor of Nursing, National School of Nursing and Obstetrics (ENEO-UNAM)
-* Master's Degree in Psychoanalytic Psychotherapy, Autonomous University of Zacatecas
 * Expert in Practical Criminalistics, International Academy of Training in Forensic Sciences (AIFCF)
+* Master's Degree in Psychoanalytic Psychotherapy, Autonomous University of Zacatecas
 * Bachelor's Degree in Medicine and Surgery, Faculty of Medicine, National Autonomous University of Mexico (UNAM), 2024
 * Doctorate in Psychoanalytic Theory, Lacanian Psychoanalytic College, 2025
-
-Certifications & Licenses
-======
-* Medical Surgery Social Service Intern
-* Provider and Instructor, Basic Life Support, American Heart Association
-* Provider and Instructor, Advanced Cardiovascular Life Support, American Heart Association
-* Certified for Teaching in Clinical Simulation
-* Certified in First Aid Care
 
 Experience
 ======
 * Resident Physician, Neuropathology, XXI Century National Medical Center, Mexico City
-* Professor, University of Health
-* Professor, National School of Nursing and Obstetrics (ENEO-UNAM)
-* Professor, Universidad Panamericana
-* Professor, UNAM Nursing Graduate Unit
+* Professor, University of Health, Mexico City
+* Professor, National School of Nursing and Obstetrics (ENEO-UNAM), Mexico City
+* Professor, Universidad Panamericana, Mexico City
+* Professor, UNAM Nursing Graduate Unit, Mexico City
 * Medical Emergency 911 Advisor
 * Member, National Scientific Committee of the Mexican Society of Space Medicine and Microgravity (SOMMEM)
 
@@ -56,6 +48,14 @@ Publications & Engagements
 * Social service oriented to teaching and clinical practice using simulators
 * Creator, "Clinical Teaching Radio" — a clinical learning podcast program and clinical pedagogical digital media
 * Participant and translator, XV Pan-American Nursing Research Colloquium; October 2016
+
+* Certifications & Licenses
+======
+* Medical Surgery Social Service Intern
+* Provider and Instructor, Basic Life Support, American Heart Association
+* Provider and Instructor, Advanced Cardiovascular Life Support, American Heart Association
+* Certified for Teaching in Clinical Simulation
+* Certified in First Aid Care
 
 Conferences & Courses Attended
 ======
